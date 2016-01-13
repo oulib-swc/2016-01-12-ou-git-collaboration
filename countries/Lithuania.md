@@ -1,6 +1,6 @@
 ##Lithuania
 ## population
-
+>2< 400Billion
 
 ## capital
 
@@ -9,6 +9,6 @@
 
 
 ## interesting trivia
-
+Yes
 
 
